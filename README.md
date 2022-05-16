@@ -56,7 +56,7 @@
 
 * numarul de deplasari in fiecare caz este caluculat in functie de
     iteratia la care am ajuns (eax) astfel:
-        -> n - 2 * eax (la dreapta)
-        -> n - 2 * eax - 1 (jos)
-        -> n - 2 * eax - 1 (la stanga)
-        -> n - 2 * eax - 2 (sus)
+- n - 2 * eax (la dreapta)
+- n - 2 * eax - 1 (jos)
+- n - 2 * eax - 1 (la stanga)
+- n - 2 * eax - 2 (sus)
